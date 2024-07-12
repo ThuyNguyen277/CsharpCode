@@ -1,0 +1,10 @@
+C:\Users\agile\source\repos\CrabGame2\bin\Debug\CrabGame2.exe.config
+C:\Users\agile\source\repos\CrabGame2\bin\Debug\CrabGame2.exe
+C:\Users\agile\source\repos\CrabGame2\bin\Debug\CrabGame2.pdb
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.csproj.AssemblyReference.cache
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.Form1.resources
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.Properties.Resources.resources
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.csproj.GenerateResource.cache
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.csproj.CoreCompileInputs.cache
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.exe
+C:\Users\agile\source\repos\CrabGame2\obj\Debug\CrabGame2.pdb
